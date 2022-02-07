@@ -1,0 +1,15 @@
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.csproj.AssemblyReference.cache
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.AssemblyInfoInputs.cache
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.AssemblyInfo.cs
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.csproj.CoreCompileInputs.cache
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ex_08.exe
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ex_08.deps.json
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ex_08.runtimeconfig.json
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ex_08.dll
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ref\ex_08.dll
+C:\Users\эльдо\Desktop\hw_c#\ex_08\bin\Debug\net6.0\ex_08.pdb
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.dll
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ref\ex_08.dll
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.pdb
+C:\Users\эльдо\Desktop\hw_c#\ex_08\obj\Debug\net6.0\ex_08.genruntimeconfig.cache
